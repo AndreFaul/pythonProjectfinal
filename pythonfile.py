@@ -18,3 +18,13 @@ print("i1",i1)
 
 print(math.inf > 0)
 print(math.inf -math.inf)
+
+age = 17
+if age > 21:
+    print("you can drive tractor")
+elif age >= 16:
+    print("you can drive a car")
+else:
+    print("canny drive")
+
+
